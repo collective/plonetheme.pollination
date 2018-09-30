@@ -4,6 +4,8 @@ Changelog
 0.2 (unreleased)
 -------------------
 
+- Added HTML validation for HTML template file [macagua]
+
 - Added more keywords and strings classifiers items 
   and updated others items for this package [macagua]
 
