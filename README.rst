@@ -6,7 +6,7 @@ The ``plonetheme.pollination`` package uses the **theming** and **packaging** fe
 available in `plone.app.theming`_ to make the `CSS Templates`_ theme `pollination`_ easily
 available in `Plone 4.1`_.
 
-.. image:: http://svn.plone.org/svn/collective/plonetheme.pollination/trunk/screenshot01.png
+.. image:: https://github.com/collective/plonetheme.pollination/raw/master/plonetheme/pollination/static/preview.png
 
 Installation
 ------------
@@ -22,7 +22,7 @@ Zip file
 
 If you are an end user, you might enjoy installation via zip file import.
 
-1. Download the zip file: http://svn.plone.org/svn/collective/plonetheme.pollination/trunk/pollination.zip
+1. Download the zip file: https://github.com/collective/plonetheme.pollination/pollination.zip
 2. Import the theme from the Diazo theme control panel.
 
 Buildout
