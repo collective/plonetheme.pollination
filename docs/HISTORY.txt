@@ -4,6 +4,8 @@ Changelog
 0.2 (unreleased)
 -------------------
 
+- Updated the preview file for Diazo theme [macagua]
+
 - Added improvements about README file [macagua]
 
 - Updated the Diazo manifest file [macagua]
