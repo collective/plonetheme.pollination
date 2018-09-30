@@ -4,7 +4,8 @@ Changelog
 0.2 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Added more keywords and strings classifiers items 
+  and updated others items for this package [macagua]
 
 
 0.1 (09-06-2011)
