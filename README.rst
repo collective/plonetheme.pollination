@@ -6,7 +6,7 @@ plonetheme.pollination
 Introduction
 ============
 
-*plonetheme.pollination* package is an installable Plone_ Theme using the 
+*plonetheme.pollination* package is an installable `Plone`_ Theme using the 
 **theming** and **packaging** features available in `plone.app.theming`_ 
 to make the `CSS Templates`_ theme `pollination`_ easily available in `Plone`.
 
@@ -33,7 +33,7 @@ Features
 ========
 - It's an installable Plone Theme package.
 - After installation from Add-ons controlpanel, this theme is enabled automatically.
-- Also it's a simple Diazo_ package (Zip file).
+- Also it's a simple `Diazo`_ package (Zip file).
 - It's have support for clean uninstallation.
 
 
@@ -87,7 +87,7 @@ Help
 Obviously there is more work to be done. If you want to help, pull requests 
 accepted! Some ideas:
 
-* Add a diazo rule to import Plone editing styles
+* Add a Diazo rule to import Plone editing styles
 * Configure styles to use portal_css tools
 * Improve styles
 
@@ -127,10 +127,10 @@ License
 
 The author is not a "license guy", but the pollination theme is distributed via CC 3.0 license [1]_ and this package is GPL version 2 (assuming that makes sense).
 
-.. _`pollination`: http://www.freecsstemplates.org/preview/pollination/
 .. _`Plone`: http://plone.org
-.. _`plone.app.theming`: https://pypi.org/project/plone.app.theming/
-.. _`Diazo`: http://diazo.org
 .. _`CSS Templates`: http://www.freecsstemplates.org/
+.. _`pollination`: http://www.freecsstemplates.org/preview/pollination/
+.. _`Diazo`: http://diazo.org
+.. _`plone.app.theming`: https://pypi.org/project/plone.app.theming/
 
 .. [1] http://www.freecsstemplates.org/license/
