@@ -101,7 +101,7 @@ Contribute
 Authors
 -------
 
-This product was developed by RedTurtle Technology team.
+This product was developed by `RedTurtle <http://www.redturtle.it/>`_ Technology team.
 
 .. image:: http://www.redturtle.net/redturtle_banner.png
    :alt: RedTurtle Technology Site
