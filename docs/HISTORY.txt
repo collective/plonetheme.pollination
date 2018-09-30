@@ -4,6 +4,8 @@ Changelog
 0.2 (unreleased)
 -------------------
 
+- Added improvements about README file [macagua]
+
 - Updated the Diazo manifest file [macagua]
 
 - Added HTML validation for HTML template file [macagua]
