@@ -84,12 +84,12 @@ Select and enable the theme from the Diazo control panel. That's it!
 Help
 ====
 
-Obviously there is more work to be done. If you want to help, pull requests accepted! Some ideas:
+Obviously there is more work to be done. If you want to help, pull requests 
+accepted! Some ideas:
 
 * Add a diazo rule to import Plone editing styles
-* Configure styles to use portal_css
-* Add quick installer support
-* Improve styles 
+* Configure styles to use portal_css tools
+* Improve styles
 
 
 Contribute
